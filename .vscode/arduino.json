@@ -1,0 +1,5 @@
+{
+    "sketch": "SmartHouse.ino",
+    "port": "COM50",
+    "board": "arduino:avr:uno"
+}
